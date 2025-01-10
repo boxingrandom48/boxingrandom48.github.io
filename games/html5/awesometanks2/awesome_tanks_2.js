@@ -5577,7 +5577,7 @@ Math.sign || (Math.sign = function(t) {
         }(n, "_" + n);
         i.Component.Health = function() {}, i.Component.Health.prototype = {
             health: 1,
-            maxHealth: 100,
+            maxHealth: 250,
             damage: function(t) {
                 return this.alive && (this.health -= t, this.health <= 0 && this.kill()), this
             },
