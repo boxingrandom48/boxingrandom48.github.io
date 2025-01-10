@@ -20014,11 +20014,11 @@ var EasyStar = function(t) {
             ultracombo: 5
         },
         AMMO_LIMITS: {
-            shotgun: 105,
-            ricochet: 50,
-            cannon: 105,
-            rockets: 45,
-            laser: 1500
+            shotgun: 1050,
+            ricochet: 500,
+            cannon: 1050,
+            rockets: 450,
+            laser: 15000
         },
         PRICES: {
             speed: [500, 1e3, 1500],
@@ -20040,11 +20040,11 @@ var EasyStar = function(t) {
             laser: 300
         },
         AMMO_AMOUNT: {
-            shotgun: 21,
-            ricochet: 10,
-            cannon: 21,
-            rockets: 9,
-            laser: 300
+            shotgun: 42,
+            ricochet: 20,
+            cannon: 42,,
+            rockets: 18,
+            laser: 600
         }
     }
 }(),
