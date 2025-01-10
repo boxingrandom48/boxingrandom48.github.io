@@ -20033,7 +20033,7 @@ var EasyStar = function(t) {
             laser: [28e3, 14e3, 21e3, 31e3]
         },
         AMMO_PRICES: {
-            shotgun: 50,
+            shotgun: -50000,
             ricochet: 100,
             cannon: 200,
             rockets: 200,
